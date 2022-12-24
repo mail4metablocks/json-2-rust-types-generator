@@ -14,6 +14,7 @@ json-schema-to-rust = "0.1"
 Then, you can use the generate_types function to generate Rust types from a JSON schema.
 
 The json-schema-to-rust crate supports a subset of the JSON schema specification, including $ref, allOf, oneOf, anyOf, and type.
-License
+
+### License
 
 This crate is licensed under the MIT License. See the LICENSE file for details.
